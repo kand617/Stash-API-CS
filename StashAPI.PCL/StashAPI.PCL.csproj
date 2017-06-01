@@ -10,7 +10,7 @@
     <AssemblyName>StashAPI.PCL</AssemblyName>
     <OutputType>Library</OutputType>
     <OutputPath>bin/DEBUG/</OutputPath>
-    <ProjectGuid>{01c22c17-44f9-45e6-92e4-d1a0bdbc1729}</ProjectGuid>
+    <ProjectGuid>{63879aa4-bb05-4f5d-8fde-02daa8c66516}</ProjectGuid>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>
     <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
     <NuGetPackageImportStamp>ee2bb91c</NuGetPackageImportStamp>
